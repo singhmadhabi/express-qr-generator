@@ -1,1 +1,0 @@
-# express-qr-generator
